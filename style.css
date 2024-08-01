@@ -6,3 +6,6 @@ li{
 li.coming-soom{
     visibility: hidden;
 }
+ol{
+    list-style-type: lower-roman;
+}
