@@ -1,0 +1,11 @@
+li{
+    display: inline;
+    margin-right: 10px;
+
+}
+li.coming-soom{
+    visibility: hidden;
+}
+ol{
+    list-style-type: lower-roman;
+}
